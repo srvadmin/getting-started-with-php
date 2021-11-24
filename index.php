@@ -1,3 +1,3 @@
 <?php
-echo"Hello World, PHP is working with FlashDrive!";
+echo"Privet, Parni, PHP is working. Spesial for serveradmin.ru";
 ?>
